@@ -21,8 +21,11 @@ The goal of the analysis is to visualize important trends that can help in under
 The dashboard layout consists of six well-structured subplots. First, a scatter plot visualizes the relationship between a borrower's income and the loan amount, color-coded by loan grade, helping to identify how income levels affect the size and quality of loans. Second, a box plot illustrates the distribution of interest rates across different loan grades, further split by loan status, offering insight into how lenders may adjust interest rates based on risk assessments. Third, a heatmap shows the default rate based on borrower age groups and length of credit history, using a pivot table to compute default ratios. This visual is particularly useful in identifying high-risk demographics.The fourth plot is a bar chart that compares loan intent categories (e.g., education, medical, personal) against loan status, which is valuable for understanding how different loan purposes correlate with repayment behavior. The fifth plot is a histogram that visualizes the percentage of a borrower's income allocated to loan repayment, separated by loan status, which gives clues about borrower affordability and financial stress. Lastly, a violin plot displays interest rate distributions by employment length and loan grade, combining density estimation and categorical data to reveal deeper insights.
 
 This project has real-world applications in banking, FinTech, and risk analytics, where understanding borrower profiles and default risks is essential. It can be used by credit analysts, loan officers, and financial institutions to guide lending strategies, minimize default exposure, and refine credit scoring models. Additionally, the analysis is valuable for data analysts and data scientists looking to showcase their skills in exploratory data analysis (EDA), financial analytics, and visualization. With further enhancements such as predictive modeling (e.g., logistic regression or machine learning classifiers) or deployment as an interactive web app using Streamlit or Dash, this project can evolve into a complete credit risk decision-support system.
+
 output
-(https://github.com/user-attachments/assets/3c37ad60-b89f-49a2-b7fe-4556c0cb4370)
+![Screenshot (7)](https://github.com/user-attachments/assets/6bca3162-99b9-4f2a-894b-e1139e7e1235)
+
+
 
 
 
